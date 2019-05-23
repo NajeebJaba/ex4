@@ -1,0 +1,27 @@
+label{
+    display:block;
+    
+ }
+.space{
+    margin-top:30px;
+}
+
+form section{
+    float:left;
+    margin-left:50px;
+}
+
+.text, input,.input{
+margin-top: 10px;
+border-radius: 5px;
+-webkit-border-radius : 5px;
+-moz-border-radius : 5px;
+}
+.end{
+    margin-left: 100px;
+}
+.clear{clear: both;}
+form{
+    float:left;
+}
+button{margin-left:500px;}
